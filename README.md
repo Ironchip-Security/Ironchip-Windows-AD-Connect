@@ -51,10 +51,10 @@ Install the service for auto-start when the device powers on:
 Start the service to use without restarting device:
 
 ```bash
-./ironchip-ad-connect.exe s install
+./ironchip-ad-connect.exe s start
 ```
 ### Step 3: Configure
-Configure necessary credentials in http://localhost:10300:
+Configure necessary credentials in http://localhost:10300
 
 ---
 
