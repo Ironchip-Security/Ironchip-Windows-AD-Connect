@@ -60,7 +60,7 @@ Configure necessary credentials in http://localhost:10300
 
 ### Uninstall / Revert
 
-To remove Ironchip RFID service:
+To remove Ironchip AD Connect service:
 
 1. Stop the running service:
 
